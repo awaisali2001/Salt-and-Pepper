@@ -44,6 +44,9 @@
     .w-full{
         width: 100%;
     }
+    .foot-font{
+        font-size:1.2rem
+    }
 
     
     
@@ -54,4 +57,45 @@
         width: 600px;
         box-sizing: border-box;
     }
+    .flex-column{
+        flex-direction: column;
+    }
+    .fotter-head{
+        background-color: #0f0f0f;
+        gap: 20px;
+        padding: 50px;
+    }
+    .margin-300{
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+   .picture-font{
    
+   padding-left: 80px;
+   gap: 80px;
+   
+   
+   }
+   .margin-image{
+    padding-right: 80px;
+   }
+   .width-one{
+    width: 100px;
+   }
+   .feedback-button{
+    background-color: #ff0000;
+    border-radius: 40px;
+    width: 120px;
+    margin: 20px;
+    padding: 10px;
+   }
+   .border-size{
+   box-decoration-break: slice;
+   margin-left: 20px;
+   }
+   .gap-4{
+    gap: 40px;
+   }
+   .gap-6{ 
+    margin-right: 20px;
+   }
